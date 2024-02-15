@@ -16,5 +16,13 @@ During years the information about food was only saved in books and food magazin
 # Justification
 In today's world, where time is a valuable resource and in some people there is an absence of creativity and imagination when cooking and healthy eating is a priority for many, there is a growing need for solutions that simplify planning. of meals and improve accessibility to personalized food options. This project proposes the development of an innovative digital tool designed to respond to this need, offering users personalized recipe recommendations based on the ingredients they have on hand, their culinary preferences, and their specific dietary needs.
 
+# General Objectives 
+The user knows what to cook according to the ingredients they have or propose
+Nutrition care
+An easy and wide range recetary
+
+
+
+
 
 
