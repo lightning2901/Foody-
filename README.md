@@ -1,5 +1,5 @@
 # Ignis-Proyect
-Usage an API to get new recipes
+Usage of an API to get new recipes
 
 # Authors and contact
 Erika Monserrat Correa Hernández ------- 
