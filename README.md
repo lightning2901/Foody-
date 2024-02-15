@@ -20,6 +20,10 @@ During years the information about food was only saved in books and food magazin
 
 # Justification
 The idea of this project came because, people sometime doesn't have enough time avaliable to invest on looking for options for a meal, or in other cases there's an absence of creativity and imagination or you could just be looking for a recibe with an specific ingredient. There is a growing need for solutions and we plan to solve some of them with this project while also improve accessibility to personalized options. In short, we provide an innovative digital tool designed to respond to these needs.
+
+# Hypothesis
+The hypothesys consist on, by using an API and code in python, be able to get data and filter information based on what the user wants, and also to save some of that info to make reccomendations
+ 
 # General Objectives 
 The user knows what to cook according to the ingredients they have or propose
 Nutrition care
