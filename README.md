@@ -29,6 +29,12 @@ The user knows what to cook according to the ingredients they have or propose
 Nutrition care
 An easy and wide range recetary
 
+# Particular Objectives
+To get the info from the Api
+Filter it and return results based on the parameters the user may adds.
+
+
+
 
 
 
