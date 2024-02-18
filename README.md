@@ -2,7 +2,7 @@
 Usage of an API to get new recipes
 
 # Authors and contact
-Erika Monserrat Correa Hernández ------- 
+Erika Monserrat Correa Hernández ------- erikacorreahdezenes@gmail.com
 
 
 Diego Maldonado Castro thebrogrrs@gmail.com
